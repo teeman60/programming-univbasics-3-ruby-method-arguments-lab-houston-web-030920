@@ -6,7 +6,7 @@
 name = "Josh"
 name = "Dan"
 def intoduction(name)
-  puts "Hi, my name is #{name}."
+  return "Hi, my name is #{name}."
 
 end
 
